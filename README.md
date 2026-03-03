@@ -2,7 +2,7 @@
 #### Backend developer in fintech
 I'm a backend developer working in financial technology, writing mainly in Go. I'm currently building **[Fireball](https://github.com/CatSprite-dev/fireball)** — an investment analysis tool powered by T‑INVEST‑API that helps people track their portfolios and make smarter investment decisions.
 
-Skills: GO / Python / C / SQL / DOCKER / KUBERNETES / RABBITMQ 
+Skills: Go / Python / C / SQL / Docker / Kunernetes / RabbitMQ 
 
 
 <!--
