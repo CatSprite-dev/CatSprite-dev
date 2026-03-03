@@ -1,4 +1,11 @@
-## Hi there 👋
+Hi there 👋, I'm Rafael
+
+Backend developer in fintech
+
+I'm a backend developer working in financial technology, writing mainly in Go.
+I'm currently building Fireball — an investment analysis tool powered by T‑INVEST‑API that helps people track their portfolios and make smarter investment decisions.
+
+Skills: Go · Python · C · SQL · Docker · Kubernetes · RabbitMQ
 
 <!--
 **CatSprite-dev/CatSprite-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
