@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Rafael Muzafarov
 #### Backend developer with a scientific background
 
-- 🖥️ I'm a backend developer writing mainly in Go
+- 🔭 I'm a backend developer writing mainly in Go
 - 📈 I love financial technology and am currently building **[Fireball](https://github.com/CatSprite-dev/fireball)** — an investment analysis tool powered by T‑INVEST‑API that helps people track their portfolios and make smarter investment decisions
 - 🧙🏻‍♂️ Archmage on [boot.dev](https://www.boot.dev)
 - 🤿 Currently diving deep into CI/CD
 - 🛠️ **Skills:** Go / Python / TypeScript / C / SQL / Docker / K8s / RabbitMQ
-- 📫 **Contact:** catspriteee@gmail.com
+- 📫 **How to reach me:** catspriteee@gmail.com
 
 
 <!--
