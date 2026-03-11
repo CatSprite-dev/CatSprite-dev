@@ -6,7 +6,7 @@
 - 🧙🏻‍♂️ Archmage on [boot.dev](https://www.boot.dev)
 - 🤿 Currently diving deep into CI/CD
 - 🛠️ **Skills:** Go / Python / TypeScript / C / SQL / Docker / K8s / RabbitMQ
-- 📫 **How to reach me:** catspriteee@gmail.com
+- 📫 **Contact:** catspriteee@gmail.com
 
 
 <!--
